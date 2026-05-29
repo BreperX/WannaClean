@@ -1,0 +1,4 @@
+#include <windows.h>
+
+APP_ICON ICON "WannaClean.ico"
+1 RT_MANIFEST "app.manifest"

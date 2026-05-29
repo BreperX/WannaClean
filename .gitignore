@@ -1,0 +1,21 @@
+# Dependencia externa
+imgui/
+
+# Build output
+out/
+build/
+*.exe
+*.obj
+*.ilk
+*.pdb
+*.exp
+*.lib
+*.idb
+
+# Visual Studio
+.vs/
+*.user
+
+# Runtime files
+config.json
+WannaClean_log.txt
